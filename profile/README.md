@@ -3,4 +3,4 @@
 This organization is created for demonstration purposes during the workshop.
 
 ### Workshop Recording
-[Link will be provided]
+[Recording - YouTube](https://youtu.be/K4a0-QlTOeo)
